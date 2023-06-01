@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "832783219209",
+    "project_id": "signinflutter-3afde",
+    "storage_bucket": "signinflutter-3afde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832783219209:android:40fbf2e423a5e8d12d16d8",
+        "android_client_info": {
+          "package_name": "com.example.graphql_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832783219209-1nckt4k97bbnqcd5gialg405ks7k390r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.graphql_demo",
+            "certificate_hash": "069cc4093407e05df51ace9514e2c6a0d3702b0b"
+          }
+        },
+        {
+          "client_id": "832783219209-2jd3pbme200og5861motm4icido5s1tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17mAZfvODEnOJhL9pnQ8-bYLQD82hEWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832783219209-2jd3pbme200og5861motm4icido5s1tf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832783219209-19i9vgr2g2vcj0pcvbvbja4jrr1q7qki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graphqlDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
